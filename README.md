@@ -2,7 +2,7 @@
 
 This application was built using React Native. This cross-platform framework enables seamless development for both iOS and Android, offering a single codebase for efficient and consistent app deployment. 
 
-Two keys feature extensively utilized in this app:
+Two keys features extensively utilized in this app:
 
 - FlatList component. Understanding how to work with FlatList is crucial for optimizing the rendering of large datasets, enhancing performance, and ensuring a smooth user experience. By efficiently rendering only the visible items on the screen, FlatList significantly improves the app's responsiveness, making it a fundamental tool for developers working on React Native applications with dynamic content. 
 
